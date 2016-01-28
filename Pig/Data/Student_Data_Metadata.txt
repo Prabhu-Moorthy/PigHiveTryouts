@@ -1,0 +1,14 @@
+File downloaded from : https://www.briandunning.com/sample-data/
+
+First Name
+Last Name
+Company
+Address
+City
+County (where applicable)
+State/Province (where applicable)
+ZIP/Postal Code
+Phone 1
+Phone 2
+Email
+Web
